@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Jiahao Zhan jhzhan94@umd.edu
 
 # THANKS
 
